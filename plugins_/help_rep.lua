@@ -1439,7 +1439,7 @@ taha =  "هاي تفله بعد ميعور حمبي 💦"
 storm_sendMsg(msg.chat_id_, msg.id_, 1, taha, 1, "html") 
 end
 if text =="كحبه" then 
-taha =  "يب ادري بيها حته ناجها سويجد 😹" 
+taha =  "يب ادري بيها حته ناجها منتظر 😹" 
 storm_sendMsg(msg.chat_id_, msg.id_, 1, taha, 1, "html") 
 end
 if text =="يوجع" then 
@@ -1506,7 +1506,7 @@ if text =="شباب" then
 taha =   "كباب وتكه وسمج 😸💛" 
 storm_sendMsg(msg.chat_id_, msg.id_, 1, taha, 1, "html") 
 end
-if text =="ماريا" then 
+if text =="زهراء" then 
 taha =   "ولك هاي الصاكه العشق هاي حبيبت المطور هاي 😸🙊😻😻️" 
 storm_sendMsg(msg.chat_id_, msg.id_, 1, taha, 1, "html") 
 end
